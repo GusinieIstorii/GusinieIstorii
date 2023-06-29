@@ -7,7 +7,6 @@
 ```javascript
 const ksenia = {
   pronouns: "she" | "her",
-  location: "Moscow",
   code: [HTML, CSS, Javascript, Typescript],
   frameworks: [ReactRedux, Toolkit],
   tools: [NPM, Git, WebPack, DOMAPI, VSCode, ChromeDevTools, Jest],
