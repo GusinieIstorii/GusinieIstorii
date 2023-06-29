@@ -19,9 +19,9 @@ const ksenia = {
 
 <i class="fa-brands fa-google"></i>
 <p align="center">
-   <a href="https://www.t.me/Plisetskaya" target="_blank" rel="noreferrer"><img src="assets/tg.svg" width="85" height="85" /></a>  
-   <a href="mailto:plisetskaya.ksenia@gmail.com" target="_blank" rel="noreferrer"><img src="assets/g.svg" width="85" height="85" /></a>  
-   <a href="https://www.linkedin.com/in/ksenia-plisetskaya-a71247a2/" target="_blank" rel="noreferrer"><img src="assets/li.svg" width="85" height="85" /></a>
+   <a href="https://www.t.me/Plisetskaya" target="_blank" rel="noreferrer"><img src="telegram.svg" width="50" height="50" /></a>  
+   <a href="mailto:plisetskaya.ksenia@gmail.com" target="_blank" rel="noreferrer"><img src="google.svg" width="50" height="50" /></a>  
+   <a href="https://www.linkedin.com/in/ksenia-plisetskaya-a71247a2/" target="_blank" rel="noreferrer"><img src="linkedin.svg" width="50" height="50" /></a>
 </p>
 
 <!--
