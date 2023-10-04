@@ -7,11 +7,11 @@
 ```javascript
 const ksenia = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, Javascript, Typescript],
-  frameworks: [ReactRedux, Toolkit],
+  code: [HTML, CSS, Javascript],
+  frameworks: [React, Redux Toolkit],
   tools: [NPM, Git, WebPack, DOMAPI, VSCode, ChromeDevTools, Jest],
   processes: ["algorythms and data structure", "apps architecture", "automated tests"],
-  learning: [Vue, TypeScript]
+  learning: [TypeScript]
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say hi, I'll be happy to meet you more! :)
