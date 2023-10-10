@@ -8,9 +8,9 @@
 const ksenia = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Javascript],
-  frameworks: [React, Redux Toolkit],
-  tools: [NPM, Git, WebPack, DOMAPI, VSCode, ChromeDevTools, Jest],
-  processes: ["algorythms and data structure", "apps architecture", "automated tests"],
+  frameworks: [React, Node.js],
+  tools: [Redux Toolkit, AJAX, WebSockets, NPM, Git, WebPack, DOMAPI, VSCode, ChromeDevTools, ReduxDevTools, Jest, i18next],
+  processes: ["algorythms and data structure", "apps architecture", "SPA", "automated tests"],
   learning: [TypeScript]
 }
 ```
